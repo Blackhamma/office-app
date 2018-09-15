@@ -1,0 +1,36 @@
+body {
+	font-family: 'Roboto Slab', serif;
+	background: #f4f4f4 !important;
+}
+
+.header {
+	height: 100px;
+	color: #ffffff;
+	background: #333333;
+}
+#form {
+	margin: 200px;
+}
+
+input {
+	font-family: 'Roboto Slab', serif;
+}
+
+#wel {
+	margin-top: 20px;
+}
+
+#optionbtn {
+	margin-top: 10px;
+}
+#title {
+	margin-top: 7px;
+}
+thead{
+	background:#333;
+	color: #fff;
+}
+
+td>a>i{
+	padding: 0px;
+}
